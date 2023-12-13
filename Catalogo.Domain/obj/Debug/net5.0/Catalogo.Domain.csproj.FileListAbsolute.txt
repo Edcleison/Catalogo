@@ -1,0 +1,11 @@
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.deps.json
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.dll
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.pdb
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.AssemblyInfo.cs
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.dll
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\obj\Debug\net5.0\refint\Catalogo.Domain.dll
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.pdb
+C:\Curso\Curso Web API\Catalogo\Catalogo.Domain\obj\Debug\net5.0\ref\Catalogo.Domain.dll
