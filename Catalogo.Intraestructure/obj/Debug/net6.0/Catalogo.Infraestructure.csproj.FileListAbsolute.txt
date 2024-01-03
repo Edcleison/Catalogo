@@ -32,3 +32,4 @@ C:\Curso\Curso Web API\Catalogo\Catalogo.Intraestructure\obj\Debug\net6.0\refint
 C:\Curso\Curso Web API\Catalogo\Catalogo.Intraestructure\obj\Debug\net6.0\Catalogo.Infraestructure.pdb
 C:\Curso\Curso Web API\Catalogo\Catalogo.Intraestructure\obj\Debug\net6.0\Catalogo.Infraestructure.genruntimeconfig.cache
 C:\Curso\Curso Web API\Catalogo\Catalogo.Intraestructure\obj\Debug\net6.0\ref\Catalogo.Infraestructure.dll
+C:\Curso\Curso Web API\Catalogo\Catalogo.Intraestructure\obj\Debug\net6.0\Catalogo.Infraestructure.sourcelink.json

@@ -19,3 +19,4 @@ C:\Curso\Curso Web API\Catalogo\Catalogo.CrossCutting\obj\Debug\net6.0\refint\Ca
 C:\Curso\Curso Web API\Catalogo\Catalogo.CrossCutting\obj\Debug\net6.0\Catalogo.CrossCutting.pdb
 C:\Curso\Curso Web API\Catalogo\Catalogo.CrossCutting\obj\Debug\net6.0\Catalogo.CrossCutting.genruntimeconfig.cache
 C:\Curso\Curso Web API\Catalogo\Catalogo.CrossCutting\obj\Debug\net6.0\ref\Catalogo.CrossCutting.dll
+C:\Curso\Curso Web API\Catalogo\Catalogo.CrossCutting\obj\Debug\net6.0\Catalogo.CrossCutting.sourcelink.json
